@@ -1,4 +1,4 @@
-# Hi there, I'm Elxes04 👋
+# Hi there, I'm Elxes 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elxes04&color=blue)
 
