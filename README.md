@@ -1,6 +1,6 @@
 # Hey, I'm Elxes 👋
 
-💻 20 y/o dev girl from Italy. I break things, fix them, then break them better.  
+💻 21 y/o dev girl from Italy. I break things, fix them, then break them better.  
 🛠 Currently working on [EXEUbot](https://github.com/Elxes04/EXEUbot).
 📫 mastodon: [@Elxes@mastodon.uno](https://mastodon.uno/@Elxes) • matrix: `@elxes:matrix.org`  
 😄 she/her • Bonus fact: I use Arch btw (of course).
